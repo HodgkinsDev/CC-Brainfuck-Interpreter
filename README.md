@@ -19,7 +19,7 @@ This interpreter allows you to execute Brainfuck programs within the CraftOS env
 ### Running the Interpreter
 
 To start the Brainfuck interpreter, simply run the Lua script in CraftOS.
-But you can also run .bf files directily without the visualizer and everything else. Just runs the bf code straight up and only prints the output
+Alternatively, you can also run .bf files directily without the visualizer and everything else. Just runs the bf code straight up and only prints the output
 
 ```shell
 brainfuck <PATHTOFILE>
